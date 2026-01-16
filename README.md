@@ -32,8 +32,8 @@ Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de progr
 
 ### Links
 
-- URL da solução: *(adicione aqui o link da sua solução no Frontend Mentor)*  
-- URL do site ao vivo: *(adicione aqui o link do site publicado)*
+- URL da solução: *(https://www.frontendmentor.io/solutions/product-preview-card-5OAhHbXzZH)*  
+- URL do site ao vivo: *(https://lanzincode.github.io/product-preview-card-component-main/)*
 
 ---
 
